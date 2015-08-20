@@ -1,6 +1,8 @@
 var app = require('express')();
 var http = require('http').Server(app);
 var io = require('socket.io')(http);
+
+// "process.env.PORT" to set port by Heroku
 var port = process.env.PORT || 8080;
 
 app.get('/', function(req, res){
