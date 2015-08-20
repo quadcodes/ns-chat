@@ -1,2 +1,2 @@
 # ns-chat
-Simple Chat Script using Nodde.js & Socket.io
+Simple Chat Script using Node.js & Socket.io
