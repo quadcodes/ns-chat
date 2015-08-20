@@ -1,2 +1,2 @@
-# test
-my first node app
+# ns-chat
+Simple Chat Script using Nodde.js & Socket.io
