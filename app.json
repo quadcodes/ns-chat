@@ -1,0 +1,6 @@
+{
+  "name": "NS Chat",
+  "description": "Simple chat script using Node.js & Socket.io",
+  "repository": "https://github.com/quadcodes/ns-chat",
+  "keywords": ["node", "express", "socketio"]
+}
